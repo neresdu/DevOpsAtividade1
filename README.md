@@ -1,5 +1,5 @@
 # DevOpsAtividade1
-Colaboradores:
+Colaboradores: </p>
 Eduardo Neres RGM 12932591 </br>
 Aline kminehick RGM 12940496 </p>
 Luiz Henrique Valesko RGM 12934887 </p>
