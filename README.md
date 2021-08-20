@@ -1,8 +1,8 @@
 # DevOpsAtividade1
 Colaboradores:
-Eduardo Neres
-Aline kminehick
-Luiz Henrique Valesko
+Eduardo Neres RGM 12932591
+Aline kminehick RGM 12940496
+Luiz Henrique Valesko RGM 12934887
 
 Tasks definidas em Projects, divididas em 4 Sprints
 
